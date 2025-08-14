@@ -19,7 +19,7 @@ jobs:
         uses: Platane/snk@master
         with:
           github_user_name: NiranjanEpili
-          outputs: dist/github-contribution-grid-snake.svg
+          svg_out_path: dist/github-contribution-grid-snake.svg
 
       - name: Deploy to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v2.1.3
