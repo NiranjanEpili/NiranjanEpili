@@ -1,8 +1,6 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Niranjan+Epili;Welcome+to+my+GitHub!&center=true&size=30&color=FFFFFF&font=Fira+Code">
-</h1>
-<h3 align="center">A passionate cybersecurity expert from India</h3>
-
+<div align="center">
+  <img src="github-header-banner.png" width="100%" alt="Niranjan Epili - Cybersecurity Expert & AI/ML Developer">
+</div>
 
 ## About Me
 
@@ -105,6 +103,8 @@ niranjanepili@outlook.in
 <div align="center">
   <a href="https://github.com/niranjanepili">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=niranjanepili&theme=github_dark&hide_border=true" alt="Niranjan's Monthly Contribution Graph">
+  </a>
+</div>
   </a>
 </div>
 
