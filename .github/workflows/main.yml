@@ -1,28 +1,28 @@
 name: Generate Datas
 
 on:
-  schedule: # run every 5 minutes
-    - cron: "*/5 * * * *"
-  workflow_dispatch: # allow manual trigger
+  schedule:
+    - cron: "*/5 * * * *"  # Every 5 minutes
+  workflow_dispatch:
 
 permissions:
   contents: write
 
 jobs:
   build:
-    name: Jobs to update datas
     runs-on: ubuntu-latest
-
     steps:
-      # Snake Animation
-      - uses: Platane/snk@master
-        id: snake-gif
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Generate Snake Animation
+        uses: Platane/snk@master
         with:
           github_user_name: NiranjanEpili
-          svg_out_path: dist/github-contribution-grid-snake.svg
-      
-      # Deploy to GitHub Pages
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
+          outputs: dist/github-contribution-grid-snake.svg
+
+      - name: Deploy to GitHub Pages
+        uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
           target_branch: output
           build_dir: dist
