@@ -107,4 +107,3 @@ niranjanepili@outlook.in
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=niranjanepili&theme=github_dark&hide_border=true" alt="Niranjan's Monthly Contribution Graph">
   </a>
 </div>
-![GitHub Snake Dark](https://raw.githubusercontent.com/NiranjanEpili/NiranjanEpili/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
