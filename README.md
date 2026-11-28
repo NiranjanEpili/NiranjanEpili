@@ -67,7 +67,6 @@ NexScope is a service-based agency under **NCompany** (my parent company). We bu
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=NiranjanEpili&theme=dark&ring=B8872A&fire=B8872A&currStreakLabel=B8872A&background=0d1117&hide_border=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NiranjanEpili&layout=compact&theme=dark&title_color=B8872A&text_color=c9d1d9&bg_color=0d1117&hide_border=true)
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NiranjanEpili&theme=github-dark&hide_border=true&color=B8872A&line=B8872A&point=ffffff&bg_color=0d1117)
 
 </div>
 
@@ -76,8 +75,6 @@ NexScope is a service-based agency under **NCompany** (my parent company). We bu
 ## 🏆 Achievements & Certifications
 
 <div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=NiranjanEpili&theme=onedark&no-frame=true&no-bg=true&margin-w=4&column=7)
 
 [![Google Cybersecurity](https://img.shields.io/badge/Google_Cybersecurity_Professional-May_2024-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://www.coursera.org/)
 [![CEH v12](https://img.shields.io/badge/Certified_Ethical_Hacker_v12-Oct_2024-0d1117?style=for-the-badge&logo=hackthebox&logoColor=white)](https://www.coursera.org/)
@@ -121,7 +118,7 @@ NexScope is a service-based agency under **NCompany** (my parent company). We bu
 
 <div align="center">
 
-![Contribution Snake](https://raw.githubusercontent.com/NiranjanEpili/NiranjanEpili/output/github-contribution-grid-snake-dark.svg)
+![Contribution Snake](https://raw.githubusercontent.com/NiranjanEpili/NiranjanEpili/output/github-contribution-grid-snake-dark.svg?v=2)
 
 **Let's build something real → [niranjanepili.in](https://niranjanepili.in) · [LinkedIn](https://www.linkedin.com/in/niranjanepili/) · [X](https://x.com/theniranjan_e)**
 
