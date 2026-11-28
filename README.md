@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Niranjan%20Epili&fontSize=60&fontColor=B8872A&animation=fadeIn&fontAlignY=38&desc=Founder%20%26%20CEO%2C%20NexScope%20Studio&descSize=20&descAlignY=56)
+![Header](https://raw.githubusercontent.com/NiranjanEpili/NiranjanEpili/main/banner-github.png)
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=B8872A&center=true&vCenter=true&width=650&lines=BTech+CSE+%28AI%2FML%29+%40+CSMU+Panvel;Building+AI+agents+%26+automation;Websites+%7C+Shopify+%7C+Meta+%26+Google+Ads;Student+by+day%2C+founder+by+night)
 
